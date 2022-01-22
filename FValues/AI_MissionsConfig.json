@@ -1,0 +1,10 @@
+{
+  "spawnMissions": true,
+  "maxRogueFarmersMissions": 1,
+  "rogueFarmersMissionsCords": [
+    "5673 0 8060"
+  ],
+  "rogueFarmersMissionsRadius": 20,
+  "rogueFarmersMissionsMinSpawnTime": 60,
+  "rogueFarmersMissionsMaxSpawnTime": 300
+}

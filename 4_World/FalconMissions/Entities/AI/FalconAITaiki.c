@@ -1,0 +1,4 @@
+class FalconAITaiki extends FalconAI
+{
+	
+}

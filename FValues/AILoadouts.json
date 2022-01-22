@@ -1,0 +1,52 @@
+{
+  "civilian": [
+    {
+      "weaponName": "M4A1",
+      "magName": "Mag_STANAG_30Rnd",
+      "head": "",
+      "body": "TShirt_Green",
+      "pants": "Jeans_Black",
+      "boots": "AthleticShoes_Black",
+      "extraItems": [
+        "Apple"
+      ]
+    },
+    {
+      "weaponName": "MakarovIJ70",
+      "magName": "Mag_IJ70_8Rnd",
+      "head": "",
+      "body": "TShirt_Green",
+      "pants": "Jeans_Black",
+      "boots": "AthleticShoes_Black",
+      "extraItems": [
+        "Apple"
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "weaponName": "",
+      "magName": "",
+      "head": "",
+      "body": "",
+      "pants": "",
+      "boots": "",
+      "extraItems": [
+        ""
+      ]
+    }
+  ],
+  "military": [
+    {
+      "weaponName": "",
+      "magName": "",
+      "head": "",
+      "body": "",
+      "pants": "",
+      "boots": "",
+      "extraItems": [
+        ""
+      ]
+    }
+  ]
+}

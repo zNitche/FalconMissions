@@ -1,0 +1,4 @@
+class ConvoyCase extends MissionCaseBase
+{
+	
+}

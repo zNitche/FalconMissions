@@ -1,0 +1,11 @@
+{
+  "spawnMissions": true,
+  "maxKothBaseMissions": 1,
+  "kothBaseMissionsCords": [
+    "5310 0 3960",
+    "5000 0 3000"
+  ],
+  "kothBaseMissionRadius": 20,
+  "kothBaseMissionsMinSpawnTime": 60,
+  "kothBaseMissionsMaxSpawnTime": 300
+}

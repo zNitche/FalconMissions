@@ -1,0 +1,52 @@
+{
+  "spawnMissions": true,
+  "maxHiddenTreasuresMissions": 3,
+  "maxAirDropMissions": 2,
+  "maxCivilianConvoyMissions": 2,
+  "maxMilitaryConvoyMissions": 2,
+  "maxPlaneCrashMissions": 2,
+  "civilianLoot": [
+    "BakedBeansCan",
+    "BandageDressing"
+  ],
+  "militaryLoot": [
+    "MP5K",
+    "M4A1"
+  ],
+  "hiddenTreasuresMissionsCords": [
+    "5310 0 3960",
+    "5000 0 3000",
+    "4321 0 1234"
+  ],
+  "hiddenTreasuresMissionsRadius": 20,
+  "hiddenTreasuresMissionsMinSpawnTime": 60,
+  "hiddenTreasuresMissionsMaxSpawnTime": 300,
+  "airDropMissionsCords": [
+    "5310 0 3960",
+    "5000 0 3000"
+  ],
+  "airDropMissionsRadius": 20,
+  "airDropMissionsMinSpawnTime": 60,
+  "airDropMissionsMaxSpawnTime": 300,
+  "civilianConvoyMissionsCords": [
+    "4308 0 2557",
+    "8000 0 3158"
+  ],
+  "civilianConvoyMissionsRadius": 20,
+  "civilianConvoyMissionsMinSpawnTime": 60,
+  "civilianConvoyMissionsMaxSpawnTime": 300,
+  "militaryConvoyMissionsCords": [
+    "4308 0 2557",
+    "8000 0 3158"
+  ],
+  "militaryConvoyMissionsRadius": 20,
+  "militaryConvoyMissionsMinSpawnTime": 60,
+  "militaryConvoyMissionsMaxSpawnTime": 300,
+  "planeCrashMissionsCords": [
+    "4308 0 2557",
+    "8000 0 3158"
+  ],
+  "planeCrashMissionsRadius": 20,
+  "planeCrashMissionsMinSpawnTime": 60,
+  "planeCrashMissionsMaxSpawnTime": 300
+}

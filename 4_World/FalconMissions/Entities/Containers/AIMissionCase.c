@@ -1,0 +1,4 @@
+class AIMissionCase extends MissionCaseBase
+{
+	
+}

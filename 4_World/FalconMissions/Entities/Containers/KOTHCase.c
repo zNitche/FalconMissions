@@ -1,0 +1,4 @@
+class KOTHCase extends MissionCaseBase
+{
+	
+}

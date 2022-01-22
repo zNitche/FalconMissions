@@ -1,0 +1,4 @@
+class HiddenWoodenCase extends MissionCaseBase
+{
+	
+}
